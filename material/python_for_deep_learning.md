@@ -1,21 +1,21 @@
 # 딥러닝을 위한 Python
 
-- 실습 자료 : [python_for_deep_learning.ipynb](python/python_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/python/python_for_deep_learning.ipynb)
+- 실습 자료 : [python_for_deep_learning.ipynb](python/python_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/python/python_for_deep_learning.ipynb)
 - 참고 자료
   - [점프투 파이썬](https://wikidocs.net/book/1)
   - [데이터사이언스스쿨](https://datascienceschool.net/01%20python/02.00%202장%20파이썬%20기초%20문법.html)
   - colab markdown reference : https://colab.research.google.com/notebooks/markdown_guide.ipynb
 
 - 실습 내용
-  - [2021_05_06_실습내용.ipynb](python/practice/2021_05_06_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/python/practice/2021_05_06_실습내용.ipynb)
-  - [2021_05_07_실습내용.ipynb](python/practice/2021_05_07_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/python/practice/2021_05_07_실습내용.ipynb)
-  - [2021_05_10_실습내용.ipynb](python/practice/2021_05_10_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/python/practice/2021_05_10_실습내용.ipynb)
-  - [2021_05_11_실습내용.ipynb](python/practice/2021_05_11_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/python/practice/2021_05_11_실습내용.ipynb)
-  - [2021_05_12_실습내용.ipynb](python/practice/2021_05_12_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/python/practice/2021_05_12_실습내용.ipynb)
+  - [2021_05_06_실습내용.ipynb](python/practice/2021_05_06_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/python/practice/2021_05_06_실습내용.ipynb)
+  - [2021_05_07_실습내용.ipynb](python/practice/2021_05_07_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/python/practice/2021_05_07_실습내용.ipynb)
+  - [2021_05_10_실습내용.ipynb](python/practice/2021_05_10_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/python/practice/2021_05_10_실습내용.ipynb)
+  - [2021_05_11_실습내용.ipynb](python/practice/2021_05_11_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/python/practice/2021_05_11_실습내용.ipynb)
+  - [2021_05_12_실습내용.ipynb](python/practice/2021_05_12_실습내용.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/python/practice/2021_05_12_실습내용.ipynb)
 
 - 평가
-    - 문제 : [python_평가문제.ipynb](python/practice/python_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/python/practice/python_평가문제.ipynb)
-    - 풀이 : [python_평가문제_풀이.ipynb](python/practice/python_평가문제_풀이.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/DMC_2022/blob/master/material/python/practice/python_평가문제_풀이.ipynb)
+    - 문제 : [python_평가문제.ipynb](python/practice/python_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/python/practice/python_평가문제.ipynb)
+    - 풀이 : [python_평가문제_풀이.ipynb](python/practice/python_평가문제_풀이.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/python/practice/python_평가문제_풀이.ipynb)
 
 - 설치
     - python 설치 : [install_python_vscode_jupyter.pdf](install_python_vscode_jupyter.pdf)
