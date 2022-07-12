@@ -1,0 +1,95 @@
+# TODO
+
+작성 기준일 : 2022/06/29
+
+- 전체 자료 리스트 작성
+- 개선
+    - ~~model.history~~
+    - data file directory
+    - list data files
+    - ~~mae를 mape로 변경~~
+    - 전이학습 Template. category count 자동으로.
+    - word2vec을 TFhub 
+    - ~~SequenceDataGenerator~~ <-- 개선 못시킴
+- 추가
+    - folder split
+    - ~~overfitting 처리에 Noise layer~~
+    - ~~PCA~~
+    - ~~t-SNE~~
+    - ~~Tensorboard in Colab~~
+    - ~~kfold cross validation~~
+    - ROC,AUC
+        - FPR-TPR
+        - Precision-Recall
+        - Sensitivity-Specilfity 
+    - ~~callback - LearningRateScheduler 추가~~
+    - ~~sequence data~~
+        - ~~regression~~ <-- 템플릿 항목에서 처리
+        - ~~classification~~ <-- 템플릿 항목에서 처리
+        - ~~util을 사용한 sequence 데이터 처리~~
+    - scikit-learn
+        - scaler
+        - ~~train_test_split~~
+        - treating sequence data
+    - 흥미로운 사례 
+        - ~~갤럭시 배경에 물체 지우기~~
+        - 얼굴 변경
+    - MS facial Recognition
+    - ~~howto - 쌍 유지하면서 섞기~~
+    - ~~ImageDataGenerator.fit()~~ <- 하지 말자
+    - ~~Dacon hidden MNIST 추가~~
+    - ~~Dacon Wine classifcation 추가~~
+    - 실시간 Image classification 추가
+    - 실시간 Image Regression 추가
+    - ~~tfds 추가~~
+    - ~~tfds image 추가~~
+    - ~~모델 그리기~~
+    - ~~howto : 이미지 crop & resize~~
+    - NLP
+      - ~~Bert 한글 분류 추가~~
+      - ~~Bert 한글 예측 추가~~
+      - Bert 한글 유사도 추가
+      - Bert 한글 개체명 인식(NER) 추가
+      - Bert 기계 독해 추가
+      - ~~Bert 한글 괄호 예측~~
+      - GTP2 한글 예측 추가
+      - GTP2 한글 예측 추가
+      - GTP2 한글 유사도 추가
+      - GPT2 한글 언어 생성 추가
+    - Template
+      - ~~속성~~
+        - ~~예측~~
+        - ~~분류~~
+        - ~~binary 분류~~
+      - ~~영상~~
+        - ~~분류 - vanlilla CNN~~
+        - ~~분류 - 전이학습~~
+        - ~~예측 - 전이학습~~
+        - ~~binary 분류~~
+      - 순차
+        - ~~숫자열~~
+           - ~~단일 숫자열 예측~~
+           - ~~단일 숫자열 분류~~
+           - ~~다중 숫자열 분류~~
+           - ~~다중 숫자열 다중 예측~~
+           - ~~다중 숫자열 단일 예측~~
+        - ~~문자열~~
+          - ~~예측~~
+          - ~~분류~~
+          - ~~연속 예측~~
+        - 단어열
+          - ~~단어열 분류~~
+          - ~~단어열 예측~~
+          - Bert 사용 분류
+          - Bert 사용 예측
+      - sequence AutoEncoder : https://velog.io/@jaehyeong/Autoencoder%EC%99%80-LSTM-Autoencoder  
+    
+
+- 정리
+    - 사용하지 않는 dnn_in_keras_xxx.ipynb 삭제
+    - ~~tensorflow_tutorial_xxx.ipynb 삭제~~
+    - remove legacy data_aug***.ipynb
+    - U-Net, M-Net 코드 정리
+    - AutoEncoder 코드 정리
+- 픽스
+    - ~~tf-pose-estimation_with_webcam.ipynb 복원~~
