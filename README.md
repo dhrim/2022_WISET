@@ -19,7 +19,6 @@
 
 ## 2일차
 
-
 - 환경
     - colab 사용법
     - python 아주 살짝
@@ -71,7 +70,7 @@
 
 <br>
 
-## 4일차
+## 5일차
 
 - 영상 예측  CNN : [template_image_data_vanilla_cnn_regression.ipynb](material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb)
 
@@ -87,7 +86,7 @@
 
 <br>
 
-## 5일차
+## 6일차
 
 - Keras Functional API  : [functional_api.ipynb](./material/deep_learning/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/functional_api.ipynb)
 
@@ -107,7 +106,7 @@
 
 <br>
 
-## 6일차
+## 7일차
 
 - 물체 탐지
     - YOLO 설명 자료 : https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/edit	
@@ -134,7 +133,7 @@
 
 <br>
 
-## 7일차
+## 8일차
 
 - 순차열 데이터
     - 순차열 데이터의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
@@ -144,25 +143,6 @@
     - 다중 숫자열 분류 : [template_multi_numeric_sequence_data_classification.ipynb](material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) 
     - 다중 숫자열 다중 예측 : [template_multi_numeric_sequence_data_multi_prediction.ipynb](material/deep_learning/template_multi_numeric_sequence_data_multi_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/template_multi_numeric_sequence_data_multi_prediction.ipynb)
     - 다중 숫자열 단일 예측 : [template_multi_numeric_sequence_data_one_prediction.ipynb](material/deep_learning/template_multi_numeric_sequence_data_one_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/template_multi_numeric_sequence_data_one_prediction.ipynb)
-
-
-<br>
-
-## 8일차
-
-- 자연어 처리
-    - 토크나이징과 임베딩 : [text_tokenizing_and_embedding.ipynb](./material/deep_learning/text_tokenizing_and_embedding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/text_tokenizing_and_embedding.ipynb)
-
-    - RNN을 사용한 영화 평가 데이터 IMDB 분류 : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/rnn_text_classification.ipynb)
-
-- 한글 NLP    
-    - 자연어 데이터의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
-    - RNN을 사용한 한글 영화 평가 데이터 분류 : [korean_word_sequence_classification.ipynb](./material/deep_learning/korean_word_sequence_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/korean_word_sequence_classification.ipynb)
-    - Bert를 사용한 한글 영화 평가 데이터 분류 : [korean_word_sequence_classification_with_bert.ipynb](./material/deep_learning/korean_word_sequence_classification_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/korean_word_sequence_classification_with_bert.ipynb)
-    - Bert를 사용한 한글 문장 간 관계 분류 : [korean_sentence_relation_classification_with_bert.ipynb](./material/deep_learning/korean_sentence_relation_classification_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/korean_sentence_relation_classification_with_bert.ipynb)
-    - Bert를 사용한 한글 문장 간 관계값 예측 : [korean_sentence_relation_regression_with_bert.ipynb](./material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb)
-    - Bert를 사용한 한글 문장 간 관계 분류, 커스텀 vocab : [korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb](./material/deep_learning/korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb)
-    - Bert를 사용한 괄호 단어 예측 : [korean_mask_completion_with_bert.ipynb](./material/deep_learning/korean_mask_completion_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/korean_mask_completion_with_bert.ipynb) 
 
 
 <br>
@@ -195,11 +175,6 @@
 
 
 ## 추천
-
-- 추천 시스템 소개 : [recommendation.ipynb](./material/deep_learning/recommendation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/recommendation.ipynb) 
-- 실습 데이터
-    - https://www.kaggle.com/c/instacart-market-basket-analysis/data
-    - https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda/data?select=to_read.csv
 
 - 영상 검색
     - 영상 검색 - by CNN : [image_search_by_CNN.ipynb](./material/deep_learning/image_search_by_CNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/image_search_by_CNN.ipynb)
