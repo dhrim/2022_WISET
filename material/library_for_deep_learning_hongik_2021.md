@@ -22,8 +22,8 @@
 # Numpy
 
 - 실습 자료
-    - [numpy_for_deep_learning.ipynb](library/numpy_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/numpy_for_deep_learning.ipynb)
-    - [numpy_quiz_for_deeplearning.ipynb](library/numpy_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/numpy_quiz_for_deeplearning.ipynb)
+    - [numpy_for_deep_learning.ipynb](library/numpy_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/numpy_for_deep_learning.ipynb)
+    - [numpy_quiz_for_deeplearning.ipynb](library/numpy_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/numpy_quiz_for_deeplearning.ipynb)
 
 
 - 참고 자료
@@ -41,7 +41,7 @@
 # Pandas
 
 - 실습 자료
-    - [pandas_for_deep_learning.ipynb](library/pandas_for_deep_learning.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/pandas_for_deep_learning.ipynb)
+    - [pandas_for_deep_learning.ipynb](library/pandas_for_deep_learning.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/pandas_for_deep_learning.ipynb)
 
 
 - 참고 자료
@@ -60,8 +60,8 @@
 # Matplot
 
 - 실습 자료
-    - [matplot_for_deep_learning.ipynb](library/matplot_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/matplot_for_deep_learning.ipynb)
-    - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/matplot_quiz_for_deeplearning.ipynb)
+    - [matplot_for_deep_learning.ipynb](library/matplot_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/matplot_for_deep_learning.ipynb)
+    - [matplot_quiz_for_deeplearning.ipynb](library/matplot_quiz_for_deeplearning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/matplot_quiz_for_deeplearning.ipynb)
 
 
 - 참고 자료
@@ -80,7 +80,7 @@
 # Seaborn
 
 - 실습 자료
-    - [seaborn_for_deep_learning.ipynb](library/seaborn_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/seaborn_for_deep_learning.ipynb)
+    - [seaborn_for_deep_learning.ipynb](library/seaborn_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/seaborn_for_deep_learning.ipynb)
 
 
 - 참고자료
@@ -94,23 +94,23 @@
 
 # 전체 평가
 
-- 문제 : [library_평가문제.ipynb](library/practice/library_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/practice/library_평가문제.ipynb)
-- 풀이 : [library_평가문제_풀이.ipynb](library/practice/library_평가문제_풀이.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/practice/library_평가문제_풀이.ipynb)
+- 문제 : [library_평가문제.ipynb](library/practice/library_평가문제.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/practice/library_평가문제.ipynb)
+- 풀이 : [library_평가문제_풀이.ipynb](library/practice/library_평가문제_풀이.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/practice/library_평가문제_풀이.ipynb)
 
 <br>
 
 # 데이터 처리
 
-- 데이터 처리 방법 요약 : [data_processing_concise.ipynb](library/data_processing_concise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/data_processing_concise.ipynb)
+- 데이터 처리 방법 요약 : [data_processing_concise.ipynb](library/data_processing_concise.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/data_processing_concise.ipynb)
 
 - Pandas-Profiling
-    - pandas-profiling 실습 : [pandas_profiling.ipynb](library/pandas_profiling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/pandas_profiling.ipynb)
+    - pandas-profiling 실습 : [pandas_profiling.ipynb](library/pandas_profiling.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/pandas_profiling.ipynb)
     - 샘플 리포트 : [pandas_profiling_report_sample.html](library/pandas_profiling_report_sample.html)
 
 
 - 실습
-    - flawed iris 전처리 실습 : [flawed_iris_preprocessing.ipynb](library/flawed_iris_preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/flawed_iris_preprocessing.ipynb)
+    - flawed iris 전처리 실습 : [flawed_iris_preprocessing.ipynb](library/flawed_iris_preprocessing.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/flawed_iris_preprocessing.ipynb)
 
-    - EDA 실습 - NY 자전거 : [EDA_practice_NY_bike.ipynb](library/EDA_practice_NY_bike.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/master/material/library/EDA_practice_NY_bike.ipynb)
+    - EDA 실습 - NY 자전거 : [EDA_practice_NY_bike.ipynb](library/EDA_practice_NY_bike.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/EDA_practice_NY_bike.ipynb)
 
 
