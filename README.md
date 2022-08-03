@@ -297,7 +297,10 @@
 <br>
 
 ## 기타 자료
-
+- 라이브러리
+    - 딥러닝을 위한 Pandas : [pandas_for_deep_learning.ipynb](./material/library/pandas_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/pandas_for_deep_learning.ipynb)
+    - 딥러닝을 위한 Numpy : [numpy_for_deep_learning.ipynb](./material/library/numpy_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/numpy_for_deep_learning.ipynb)
+    - 딥러닝을 위한 Matplot : [matplot_for_deep_learning.ipynb](./material/library/matplot_for_deep_learning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/library/matplot_for_deep_learning.ipynb)
 - ML Classifiers : [ML_classifiers.ipynb](./material/deep_learning/ML_classifiers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/ML_classifiers.ipynb)
 - DNN regression. boston 집값 예측 : [boston_house_price_regression.ipynb](./material/deep_learning/boston_house_price_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/boston_house_price_regression.ipynb) 
 - [의학논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit)
