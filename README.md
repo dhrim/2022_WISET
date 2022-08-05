@@ -192,6 +192,9 @@
 
 <br>
 
+# 실습한 자료
+
+[practice/2022_WISET](material/deep_learning.md/practice/2022_WISET)
 
 <br>
 
