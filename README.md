@@ -314,7 +314,7 @@
 - YOLO를 사용한 자동차 번호판 탐지 : https://drive.google.com/file/d/1jlKzCaKj5rGRXIhwMXtYtVnx_XLauFiL/view?usp=sharing
 - 딥러닝 이상탐지 : [deep_learning_anomaly_detection.pptx](./material/deep_learning/deep_learning_anomaly_detection.pptx)
 - GAN을 사용한 생산설비 이상 탐지 : [anomaly_detection_using_gan.pptx](./material/deep_learning/anomaly_detection_using_gan.pptx)
-- GAN을 사용한 MNIST 이상 탐지 : [anomaly_detection_mnist_using_wgan_gp_mnist.ipynb](./material/deep_learning/anomaly_detection_mnist_using_wgan_gp_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/anomaly_detection_mnist_using_wgan_gp_mnist.ipynb)
+- GAN을 사용한 MNIST 이상 탐지 : [anomaly_detection_mnist_using_wgan_gp.ipynb](./material/deep_learning/anomaly_detection_mnist_using_wgan_gp.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/anomaly_detection_mnist_using_wgan_gp.ipynb)
 - 이상탐지 동영상 : [drillai_anomaly_detect.mp4](./material/deep_learning/drillai_anomaly_detect.mp4)
 - 훌륭한 논문 리스트 : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 - online CNN 시각화 자료 : https://poloclub.github.io/cnn-explainer/
