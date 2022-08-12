@@ -323,3 +323,21 @@ $ tree
 # 디렉토리 구조만 보기
 # tree -d
 ```
+
+
+# Git
+
+```
+$ git clone github.com/my_name/my_project
+$ cd my_project
+
+$ git branch my_work
+$ git branch
+$ git checkout my_work
+... 작업
+
+$ git add .
+$ git commit -m "작업 ..."
+$ git push
+
+```
