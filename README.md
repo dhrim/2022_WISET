@@ -173,7 +173,7 @@
 # 10일차
 
 
-## 추천
+## 검색
 
 - 영상 검색
     - 영상 검색 - by CNN : [image_search_by_CNN.ipynb](./material/deep_learning/image_search_by_CNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/2022_WISET/blob/main/material/deep_learning/image_search_by_CNN.ipynb)
